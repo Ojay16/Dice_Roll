@@ -51,3 +51,7 @@ function tbd() {
         document.querySelector("h1").innerHTML = "Draw!";
     }
 }
+
+function refreshPage(){
+    window.location.reload();
+} 
